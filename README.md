@@ -1,11 +1,11 @@
 # ptogo
 
-The moodle plugin to integrate the Presentations2go lecture streaming platform.
+The moodle module to integrate the [Presentations2go](https://www.presentations2go.eu) lecture streaming platform.
 
 ## Getting Started
 
-Install the plugin as usual by adding the ptogo directory to moodle/mod/ .
-You need to set up at least one repository to try the benefits of the Presentations2go plattform. To test you can use the following credentials.
+Install the module as usual by adding the ptogo directory to moodle/mod/ .
+You need to set up at least one repository to try the capabilities of the Presentations2go plattform. To test P2G offers a sandbox server.
 
 ### Credentials for testing
 
@@ -19,7 +19,7 @@ We develop for the current Moodle 3.4 and 3.5 versions, it has been tested for t
 
 ### Next tasks
 
-* Add backup and restore functionality
+* Add backup and restore
 * Translate to German
 * Upload for teachers
 * Upload for students
@@ -31,16 +31,16 @@ We develop for the current Moodle 3.4 and 3.5 versions, it has been tested for t
 
 ## License
 
-The ptogo plugin is 'free' software under the terms of the GNU GPLv3 License.
-You have all the rights granted to you by the GPLv3 license.  If you are unsure about anything, then the
-FAQ - http://www.gnu.org/licenses/gpl-faq.html - is a good place to look.
+The ptogo module is 'free' software under the terms of the GNU GPLv3 License.
 
 ### Supporting the development
 
-If you find the module useful share it. We are adding new functionality as soon as funding is secured and would like to receive your feedback and ideas.
-Contact ptogo@michaelpollak.org or create a new issue on github. Thank you.
+If you find the module useful, share it! We are adding new functionality as soon as funding is secured and would love to receive your feedback and ideas.
+Contact ptogo@michaelpollak.org or create a new issue on github. Thank you for making Moodle a great community project.
 
 ## Acknowledgments
 
 * This project was built on the previous work by the Presentations2go team.
 * Thanks to Dany from P2G for sharing his knowledge.
+* Thanks to the [DUK](https://www.donau-uni.ac.at) for making this project possible
+* Thanks to [Gerhard Schwed](https://github.com/gschwed) for sharing his invaluable knowledge about Moodle.
